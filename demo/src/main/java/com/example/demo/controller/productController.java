@@ -29,7 +29,6 @@ public class productController {
 	
 	@GetMapping("/welcome")
 	public String Weclome() {
-		
 	
 	return "Welcome to Product Catalog!!All the best";
 
