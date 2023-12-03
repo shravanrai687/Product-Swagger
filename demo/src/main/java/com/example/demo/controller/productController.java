@@ -31,7 +31,7 @@ public class productController {
 	public String Weclome() {
 		
 	
-	return "Welcome to Product Catalog";
+	return "Welcome to Product Catalog!!";
 
 	}
 	
